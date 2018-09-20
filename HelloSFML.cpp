@@ -37,14 +37,19 @@ int main()
     //  Do not modify any code above
     //-------------------------------
     //
-    // Create a graphical text to display in the middle of
-    // the 800x600 SFML window using "text" variable with "font"
-    // variable.
+    // First, create a graphical text to display your full name
+    // with RED font color in the middle of the 800x600 SFML window
+    // using "text" variable with "font" variable defined at Line 26
+    // and Line 31
     //
-    // Your implementation must display Your Full Name followed
-    // by displaying your FSU ID in the next line. You also must
-    // select RED font color for the text. Place your implementation
-    // below:
+    // Second, define an additional SFML text (sf::Text) variable and
+    // display your FSU ID with YELLOW font color using this additional
+    // SFML text variable. Note that you must place this FSU ID text
+    // under your full name in the SFML window.
+    //
+    // Please place your implementation below:
+
+
 
 
 
